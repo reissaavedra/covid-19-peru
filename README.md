@@ -1,7 +1,4 @@
 # covid-19-peru
-Covid 19 analysis Peru
-
-DATASET OFICIAL
 
 -VACUNACION
 https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa-0
